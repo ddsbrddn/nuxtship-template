@@ -9,4 +9,10 @@ export default defineNuxtConfig({
     },
   },
   modules: ["nuxt-icon"],
+  modules: ['@nuxt/ui'],
+  ui: {
+    icons: {
+      dynamic: true
+    }
+  }
 });
