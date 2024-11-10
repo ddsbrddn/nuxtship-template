@@ -6,7 +6,9 @@ This Free Template is sponsored by [Gr33nW33n](https://github.com/Gr33nW33n)
 
 If you like my work please feel free to
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/jakobaichmayr)
+<a href="https://www.paypal.com/paypalme/jakobaichmayr" target="_blank">
+  <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" width="260" />
+</a>
 
 ## Live Demo
 
@@ -87,3 +89,9 @@ bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+## Attributions
+
+Original Astroship Template: **[https://astroship.web3templates.com/](https://astroship.web3templates.com/)** from **[Web3Templates](https://web3templates.com/)**
+
+Forked from: **[https://github.com/surjithctly/astroship](https://github.com/surjithctly/astroship)**
